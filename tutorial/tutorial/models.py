@@ -26,9 +26,11 @@ Create App_MetaData table from base
 class AppMetadata(Base):
     __tablename__ = "metadata"
     id = Column(Integer, primary_key=True)
+    distributor = Column('distributor', Text)
     url = Column('url', Text)
     title = Column('title', Text)
     # date = Column('date', DateTime)
     developer = Column('developer', Text)
     titleXpath = Column('title_Xpath', Text)
+    
     
