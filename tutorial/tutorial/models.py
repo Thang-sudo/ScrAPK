@@ -29,8 +29,8 @@ class AppMetadata(Base):
     distributor = Column('distributor', Text)
     url = Column('url', Text)
     title = Column('title', Text)
-    # date = Column('date', DateTime)
     developer = Column('developer', Text)
+    package_name = Column('package_name', Text)
     titleXpath = Column('title_Xpath', Text)
     
     

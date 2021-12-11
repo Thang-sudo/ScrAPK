@@ -7,7 +7,7 @@ from scrapy.loader import ItemLoader
 from urllib.parse import urlparse
 class AppSpider(scrapy.Spider):
     name = 'apps'
-    keyword = 'facebook'
+    keyword = 'youtube'
     start_urls = [
                   'https://play.google.com/store/search?q=' + keyword,
                   'https://search.f-droid.org/?q='+ keyword + '&lang=en',
@@ -35,9 +35,7 @@ class AppSpider(scrapy.Spider):
             app_links.append(res.get())
         # Choosing parser
         url = response.url
-        logging.info(url)
         domain = urlparse(url).netloc
-        logging.info(domain)
         callback = self.parse_app 
         if self.domains[1] in url: 
             callback = self.parse_Fdroid
@@ -52,7 +50,6 @@ class AppSpider(scrapy.Spider):
         for link in app_links:
             if link is not None:
                 absolute_link = response.urljoin(link)
-                logging.info(absolute_link)
                 yield scrapy.Request(absolute_link, callback=callback)
                 
         # Add Scrape for next page or See more
@@ -64,11 +61,12 @@ class AppSpider(scrapy.Spider):
                 yield scrapy.Request(absolute_link, callback=self.parse)
                 
         if self.domains[3] in url:
-            see_more = response.xpath('//a[contains(@class, "more")]/@href').get()
-            if see_more:
-                absolute_link = response.urljoin(see_more)
-                yield scrapy.Request(absolute_link, callback=self.parse)
-            
+            page_count = 1
+            while page_count < 10:
+                url = "https://en.uptodown.com/android/apps/search/facebook?pag=%d" %(page_count)
+                # scraping code...
+                page_count += 1
+                yield scrapy.Request(url, callback=self.parse)
     # Parse each app in the search results
     # Parse Google Play
     def parse_app(self, response):
@@ -86,6 +84,9 @@ class AppSpider(scrapy.Spider):
         # Generate Developer
         developer = response.xpath('//div[contains(text(), "Offered By")]/following-sibling::span/div/span/text()').get()   
         developer = developer if developer else ''
+        # Generate Package Name
+        package_name = url.split("id=", 1)[1]
+        package_name = package_name if package_name else ''
         # Generating App Item
         loader = ItemLoader(item=AppItem(), response=response)
         loader.add_value('link', url)
@@ -93,6 +94,7 @@ class AppSpider(scrapy.Spider):
         loader.add_value('title', title)
         loader.add_value('developer', developer)
         loader.add_value('distributor', 'Google Play')
+        loader.add_value('package_name', package_name)
         yield loader.load_item()
 
     # Parse Fdroid
@@ -120,6 +122,7 @@ class AppSpider(scrapy.Spider):
         loader.add_value('title', title)
         loader.add_value('developer', developer)
         loader.add_value('distributor', 'F-Droid')
+        loader.add_value('package_name', '')
         yield loader.load_item()
     
     # Parse FossDroid
@@ -147,12 +150,12 @@ class AppSpider(scrapy.Spider):
         loader.add_value('title', title)
         loader.add_value('developer', developer)
         loader.add_value('distributor', 'FossDroid')
+        loader.add_value('package_name', '')
         yield loader.load_item()
         
     # Parse UpToDown
     def parse_UpToDown(self, response):
         logging.info("Scraping UpToDown")
-        logging.info(response.url)
         relative_path = '//h1[contains(@id, "detail-app-name")]'
         url = response.url
         loader = ItemLoader(item=AppItem(), response=response)
@@ -169,6 +172,9 @@ class AppSpider(scrapy.Spider):
         # Generate Developer
         developer = response.xpath('//a[contains(@id, "author-link")]/text()').get()
         developer = developer if developer else ''
+        # Generate Package Name
+        package_name = response.xpath('//div[contains(text(), "Package Name")]/following-sibling::div/text()').get()
+        package_name = package_name if package_name else ''
         # Generating App Item
         loader = ItemLoader(item=AppItem(), response=response)
         loader.add_value('link', url)
@@ -176,12 +182,12 @@ class AppSpider(scrapy.Spider):
         loader.add_value('title', title)
         loader.add_value('developer', developer)
         loader.add_value('distributor', 'UpToDown')
+        loader.add_value('package_name', package_name)
         yield loader.load_item()
         
     # Parse AppsApk
     def parse_AppsApk(self, response):
         logging.info("Scraping AppsApk")
-        logging.info(response.url)
         relative_path = '//h1[contains(@class, "entry-title")]'
         url = response.url
         loader = ItemLoader(item=AppItem(), response=response)
@@ -198,6 +204,9 @@ class AppSpider(scrapy.Spider):
         # Generate Developer
         developer = response.xpath('//strong[contains(text(), "Developed By")]/../text()').get()
         developer = developer if developer else ''
+        # Generate Package name
+        package_name = response.xpath('//strong[contains(text(), "Package")]/../text()').get()
+        package_name = package_name if package_name else ''
         # Generating App Item
         loader = ItemLoader(item=AppItem(), response=response)
         loader.add_value('link', url)
@@ -205,6 +214,7 @@ class AppSpider(scrapy.Spider):
         loader.add_value('title', title)
         loader.add_value('developer', developer)
         loader.add_value('distributor', 'AppsApk')
+        loader.add_value('package_name', package_name)
         yield loader.load_item()
     
     

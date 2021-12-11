@@ -14,5 +14,6 @@ class AppItem(scrapy.Item):
     title = Field()
     path_title = Field()
     developer = Field()
+    package_name = Field()
     
     
