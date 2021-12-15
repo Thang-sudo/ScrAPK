@@ -1,0 +1,70 @@
+id,distributor,url,title,developer,package_name,title_Xpath
+1,Malavida,https://www.malavida.com/en/soft/tubemate-youtube-downloader/android/,TubeMate Android,Devian Studio Inc.,,/html/body/div[1]/div[3]/main/h1
+2,Malavida,https://www.malavida.com/en/soft/youtuber-dash/android/,Youtuber Dash Android,'I Don''t Remember Games',,/html/body/div[1]/div[3]/main/h1
+3,Malavida,https://www.malavida.com/en/soft/youtube-plus-plus/android/,YouTube++ Android,YouTube++,,/html/body/div[1]/div[3]/main/h1
+4,Malavida,https://www.malavida.com/en/soft/youtube-mp3/android/,Youtube MP3 Android,Happy Developer,,/html/body/div[1]/div[3]/main/h1
+5,Malavida,https://www.malavida.com/en/soft/youtube-song-downloader/android/,YouTube Song Downloader Android,AbelsSoft,,/html/body/div[1]/div[3]/main/h1
+6,Malavida,https://www.malavida.com/en/soft/ogyoutube/android/,OGYouTube Android,Osama Ghareeb,,/html/body/div[1]/div[3]/main/h1
+7,Malavida,https://www.malavida.com/en/soft/adskip-for-youtube/android/,AdSkip for YouTube Android,Cygery AdSkip,,/html/body/div[1]/div[3]/main/h1
+8,Malavida,https://www.malavida.com/en/soft/flvto-youtube-downloader/android/,Flvto YouTube Downloader Android,Hotger Corp.,,/html/body/div[1]/div[3]/main/h1
+9,Malavida,https://www.malavida.com/en/soft/freedi-youtube-downloader/android/,FREEdi YouTube Downloader Android,Micro Giant,,/html/body/div[1]/div[3]/main/h1
+10,Malavida,https://www.malavida.com/en/soft/youtube-video-downloader/android/,Youtube Video Downloader Android,Oshoapp,,/html/body/div[1]/div[3]/main/h1
+11,Malavida,https://www.malavida.com/en/soft/genyoutube/android/,Genyoutube Android,Genyoutube,,/html/body/div[1]/div[3]/main/h1
+12,Malavida,https://www.malavida.com/en/soft/youtube-vr/android/,YouTube VR Android,Google,,/html/body/div[1]/div[3]/main/h1
+13,Malavida,https://www.malavida.com/en/soft/youtube-music-vanced/android/,YouTube Music Vanced Android,Vikrant Bhat,,/html/body/div[1]/div[3]/main/h1
+14,Malavida,https://www.malavida.com/en/soft/youtube-ripper/android/,YouTube Ripper Android,XDA,,/html/body/div[1]/div[3]/main/h1
+15,Malavida,https://www.malavida.com/en/soft/youtube-vanced/android/,YouTube Vanced Android,YouTube Vanced,,/html/body/div[1]/div[3]/main/h1
+16,Malavida,https://www.malavida.com/en/soft/smart-youtube-tv/android/,Smart YouTube TV Android,Smart YouTube TV,,/html/body/div[1]/div[3]/main/h1
+17,AppsApk,https://www.appsapk.com/youtube-15-18-36/,YouTube 15.18.36 APK,Google LLC,com.google.android.youtube,/html/body/div/div/div[2]/div/main/article/header/h1
+18,Malavida,https://www.malavida.com/en/soft/youtube-creator-studio/android/,YouTube Creator Studio Android,Google,,/html/body/div[1]/div[3]/main/h1
+19,Malavida,https://www.malavida.com/en/soft/youtube-kids/android/,YouTube Kids Android,Google,,/html/body/div[1]/div[3]/main/h1
+20,Malavida,https://www.malavida.com/en/soft/hd-youtube-downloader/android/,HD YouTube Downloader Android,HD YouTube Downloader,,/html/body/div[1]/div[3]/main/h1
+21,AppsApk,https://www.appsapk.com/ultimate-thumbnail-maker-youtube-thumbnail-maker/,Ultimate Thumbnail Maker: Youtube Thumbnail Maker APK,Nilesh Jain,com.sk.thumbnailmaker,/html/body/div/div/div[2]/div/main/article/header/h1
+22,Malavida,https://www.malavida.com/en/soft/youtube-go/android/,YouTube Go Android,Google,,/html/body/div[1]/div[3]/main/h1
+23,Malavida,https://www.malavida.com/en/soft/youtube-music/android/,YouTube Music Android,Google,,/html/body/div[1]/div[3]/main/h1
+24,AppsApk,https://www.appsapk.com/youtube-studio/,YouTube Studio APK,Google LLC,com.google.android.apps.youtube.creator,/html/body/div/div/div[2]/div/main/article/header/h1
+25,Malavida,https://www.malavida.com/en/soft/youtube-tv/android/,YouTube TV Android,Google,,/html/body/div[1]/div[3]/main/h1
+26,AppsApk,https://www.appsapk.com/thumbnail-maker-for-youtube-videos/,Thumbnail Maker for YouTube Videos APK,ryzenrise,com.ryzenrise.thumbnailmaker,/html/body/div/div/div[2]/div/main/article/header/h1
+27,AppsApk,https://www.appsapk.com/youtube-kids/,YouTube Kids APK,Google LLC,com.google.android.apps.youtube.kids,/html/body/div/div/div[2]/div/main/article/header/h1
+28,Malavida,https://www.malavida.com/en/soft/youtube/android/,YouTube Android,Google,,/html/body/div[1]/div[3]/main/h1
+29,AppsApk,https://www.appsapk.com/youtube-app/,YouTube APK,Google LLC,com.google.android.youtube,/html/body/div/div/div[2]/div/main/article/header/h1
+30,AppsApk,https://www.appsapk.com/youtube-go/,YouTube Go APK, Google LLC, com.google.android.apps.youtube.mango,/html/body/div/div/div[2]/div/main/article/header/h1
+31,FossDroid,https://fossdroid.com/a/youtube-listing-app.html,Youtube Video Listing App (By The Creative Team),,,/html/body/div/main/div[2]/section[1]/div[2]/div/h1
+32,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube.tvkids,YouTube Kids for Android TV,Google LLC,com.google.android.youtube.tvkids,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+33,FossDroid,https://fossdroid.com/a/youtube-stream.html,YouTube Stream,,,/html/body/div/main/div[2]/section[1]/div[2]/div/h1
+34,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.vr,YouTube VR,Google LLC,com.google.android.apps.youtube.vr,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+35,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube.tvmusic,YouTube Music,Google LLC,com.google.android.youtube.tvmusic,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+36,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged,YouTube TV: Live TV & more,Google LLC,com.google.android.apps.youtube.unplugged,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+37,FossDroid,https://fossdroid.com/a/youtube-cacher.html,YouTube Cacher,,,/html/body/div/main/div[2]/section[1]/div[2]/div/h1
+38,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator,YouTube Studio,Google LLC,com.google.android.apps.youtube.creator,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+39,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube.tvunplugged,YouTube TV: Live TV & more,Google LLC,com.google.android.youtube.tvunplugged,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+40,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music,YouTube Music,Google LLC,com.google.android.apps.youtube.music,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+41,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids,YouTube Kids,Google LLC,com.google.android.apps.youtube.kids,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+42,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube.tv,YouTube for Android TV,Google LLC,com.google.android.youtube.tv,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+43,Google Play,https://play.google.com/store/apps/details?id=com.uplayonline.youtubers,Youtubers Life: Gaming Channel - Go Viral!,UPLAY Online,com.uplayonline.youtubers,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+44,Google Play,https://play.google.com/store/apps/details?id=com.alexopoulos.vlasis.youtubeminimizerclassic,Minimizer for YouTube Classic - Background Music,Vlasis Alexopoulos,com.alexopoulos.vlasis.youtubeminimizerclassic,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+45,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube,YouTube,Google LLC,com.google.android.youtube,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+46,Google Play,https://play.google.com/store/apps/details?id=com.giveaway.pickerforyoutube,Giveaway Picker for Youtube,MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK,com.giveaway.pickerforyoutube,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+47,F-Droid,https://f-droid.org/en/packages/org.thiolliere.youtubestream/,'YouTube Stream
+			',,,/html/body/div/div/div[1]/article/header/div/h3
+48,Google Play,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music.pwa,YouTube Music for Chromebook,Google LLC,com.google.android.apps.youtube.music.pwa,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+49,Google Play,https://play.google.com/store/apps/details?id=com.google.android.youtube.googletv,YouTube for Google TV,Google LLC,com.google.android.youtube.googletv,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+50,F-Droid,https://f-droid.org/en/packages/tn.creativeteam.newyoutubelistingapp/,'Youtube Video Listing App (By The Creative Team)
+			','MOHAMED BELHASSEN
+				
+			',,/html/body/div/div/div[1]/article/header/div/h3
+51,F-Droid,https://f-droid.org/en/packages/io.gitlab.mudassir.youtubecacher/,'YouTube Cacher
+			',,,/html/body/div/div/div[1]/article/header/div/h3
+52,UpToDown,https://appybuilder-mohammaddinmugheri-youtubedownload.en.uptodown.com/android,YouTube Downloader,Muhammad Din,youtube.downloader55,/html/body/div/div[2]/div[2]/h1
+53,UpToDown,https://youtube-and-movie-downloader.en.uptodown.com/android,Youtube & Movie Downloader,Mirchiwap,video.mw,/html/body/div/div[2]/div[2]/h1
+54,UpToDown,https://hacioglu-youtubevideodownloader.en.uptodown.com/android,YouTube Video Downloader,serhathacioglu,com.hacioglu.youtubevideodownloader,/html/body/div/div[2]/div[2]/h1
+55,UpToDown,https://instube-youtube-downloader.en.uptodown.com/android,InsTube YouTube Downloader,InsTube,com.instube.android,/html/body/div/div[2]/div[2]/h1
+56,UpToDown,https://youtube-mp3-and-mp4-downloader.en.uptodown.com/android,YouTube MP3 / MP4 Downloader / Convertor,HandySofts,com.haso.umg34,/html/body/div/div[2]/div[2]/h1
+57,UpToDown,https://swift-youtube-music-downloader.en.uptodown.com/android,Swift - YouTube Music Downloader,Swift Dev Team,com.nebula.swift,/html/body/div/div[2]/div[2]/h1
+58,UpToDown,https://tubemate-youtube-downloader.en.uptodown.com/android,TubeMate YouTube Downloader,Devian Studio,devian.tubemate.home,/html/body/div/div[2]/div[2]/h1
+59,UpToDown,https://youtube-downloader-fastest-youtube-downloader.en.uptodown.com/android,Youtube Downloader- fastest youtube downloader,Search Helper,com.app.youtubedownloader,/html/body/div/div[2]/div[2]/h1
+60,UpToDown,https://youtube-music.en.uptodown.com/android,YouTube Music,Google LLC,com.google.android.apps.youtube.music,/html/body/div/div[2]/div[2]/h1
+61,UpToDown,https://youtube-for-android-tv.en.uptodown.com/android,YouTube for Android TV,Google LLC,com.google.android.youtube.tv,/html/body/div/div[2]/div[2]/h1
+62,UpToDown,https://google-inc-youtube.en.uptodown.com/android,YouTube for Google TV,Google LLC,com.google.android.youtube.googletv,/html/body/div/div[2]/div[2]/h1
+63,UpToDown,https://youtube.en.uptodown.com/android,Youtube,Google LLC,com.google.android.youtube,/html/body/div/div[2]/div[2]/h1
+64,UpToDown,https://youtube-downloader-for-android.en.uptodown.com/android,YouTube Downloader for Android,Samuele Rini,dentex.youtube.downloader,/html/body/div/div[2]/div[2]/h1

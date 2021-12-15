@@ -1,0 +1,34 @@
+id,distributor,url,title,developer,package_name,title_Xpath
+1,FossDroid,https://fossdroid.com/a/updater-for-spotify.html,Updater for Spotify,,,/html/body/div/main/div[2]/section[1]/div[2]/div/h1
+2,UpToDown,https://spotify-shake.en.uptodown.com/android,Spotify Shake,,com.sokoori.shakemusic.spotify,/html/body/div/div[2]/div[2]/h1
+3,UpToDown,https://spotify-smartwatch-remote.en.uptodown.com/android,Spotify SmartWatch Remote,,org.erikandre.smartwatch.spotify2,/html/body/div/div[2]/div[2]/h1
+4,UpToDown,https://spotify-greenroom.en.uptodown.com/android,Spotify Greenroom,,io.bettylabs.disco,/html/body/div/div[2]/div[2]/h1
+5,UpToDown,https://spotify-provider.en.uptodown.com/android,Spotify Provider,,com.fastbootmobile.encore.spotifyprovider,/html/body/div/div[2]/div[2]/h1
+6,UpToDown,https://coupons-for-spotify.en.uptodown.com/android,Coupons for Spotify,Android_4,com.coupons.dvscuptodown,/html/body/div/div[2]/div[2]/h1
+7,UpToDown,https://spotify-for-artists.en.uptodown.com/android,Spotify for Artists,Spotify Ltd.,com.spotify.s4a,/html/body/div/div[2]/div[2]/h1
+8,UpToDown,https://3-and-spotify.en.uptodown.com/android,3 & Spotify,Hutchison Drei Austria GmbH,com.hutchison3g.at.spotify,/html/body/div/div[2]/div[2]/h1
+9,UpToDown,https://stations-by-spotify.en.uptodown.com/android,Spotify Stations,Spotify Ltd.,com.spotify.zerotap,/html/body/div/div[2]/div[2]/h1
+10,Google Play,https://play.google.com/store/apps/details?id=com.jayazone.spotify.timer,Sleep Timer for Spotify and Music,Jaya Zone Tech,com.jayazone.spotify.timer,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+11,UpToDown,https://spotify-lite.en.uptodown.com/android,Spotify Lite,Spotify Ltd.,com.spotify.lite,/html/body/div/div[2]/div[2]/h1
+12,Google Play,https://play.google.com/store/apps/details?id=com.spotify.zerotap,Spotify Stations: Streaming music radio stations,Spotify AB,com.spotify.zerotap,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+13,Google Play,https://play.google.com/store/apps/details?id=com.spotify.s4a,Spotify for Artists,Spotify AB,com.spotify.s4a,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+14,Google Play,https://play.google.com/store/apps/details?id=com.spotify.tv.android,Spotify - Music and Podcasts,Spotify AB,com.spotify.tv.android,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+15,Google Play,https://play.google.com/store/apps/details?id=com.spotify.music,Spotify: Music and Podcasts,Spotify AB,com.spotify.music,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+16,Google Play,https://play.google.com/store/apps/details?id=com.spotify.kids,Spotify Kids,Spotify AB,com.spotify.kids,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+17,Malavida,https://www.malavida.com/en/soft/spotify-kids/android/,Spotify Kids Android,Spotify Ltd.,,/html/body/div[1]/div[3]/main/h1
+18,Malavida,https://www.malavida.com/en/soft/stations-by-spotify/android/,Stations by Spotify Android,Spotify Ltd.,,/html/body/div[1]/div[3]/main/h1
+19,Malavida,https://www.malavida.com/en/soft/pasta-for-spotify/android/,Pasta for Spotify Android,James Fenn,,/html/body/div[1]/div[3]/main/h1
+20,UpToDown,https://spotify-kids.en.uptodown.com/android,Spotify Kids,Spotify Ltd.,com.spotify.kids,/html/body/div/div[2]/div[2]/h1
+21,Google Play,https://play.google.com/store/apps/details?id=com.mk.sign.spotifyv2,Sign - Homescreen Widgets for Spotify,Maximilian Keppeler,com.mk.sign.spotifyv2,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+22,UpToDown,https://spotify-ltd-spotify.en.uptodown.com/android,Spotify for Android TV,Spotify Ltd.,com.spotify.tv.android,/html/body/div/div[2]/div[2]/h1
+23,UpToDown,https://spotify.en.uptodown.com/android,Spotify,Spotify Ltd.,com.spotify.music,/html/body/div/div[2]/div[2]/h1
+24,Google Play,https://play.google.com/store/apps/details?id=cs10.apps.android.statsforspotify,QuickChart for Spotify,Sergio Calderón (cs10 Apps),cs10.apps.android.statsforspotify,/html/body/div/div[4]/c-wiz/div/div[2]/div/div/main/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[1]/c-wiz[1]/h1/span
+25,F-Droid,https://f-droid.org/en/packages/ru.ra66it.updaterforspotify/,'
+				Updater for Spotify
+			',,,/html/body/div/div/div[1]/article/header/div/h3
+26,Malavida,https://www.malavida.com/en/soft/spotify-lite/android/,Spotify Lite Android,Spotify Ltd.,,/html/body/div[1]/div[3]/main/h1
+27,Malavida,https://www.malavida.com/en/soft/spotify/android/,Spotify Music Android,Spotify Ltd.,,/html/body/div[1]/div[3]/main/h1
+28,Malavida,https://www.malavida.com/en/soft/spotify-for-artists/android/,Spotify for Artists Android,Spotify Ltd.,,/html/body/div[1]/div[3]/main/h1
+29,AppsApk,https://www.appsapk.com/spotify-app-tutorial/,Spotify App Tutorial,,,/html/body/div/div/div[2]/div/main/article/header/h1
+30,AppsApk,https://www.appsapk.com/spotify-listen-to-new-music-podcasts-and-songs-8-5-64-1046/,'Spotify: Listen to new music, podcasts, and songs 8.5.64.1046 APK',Spotify Ltd.,com.spotify.music,/html/body/div/div/div[2]/div/main/article/header/h1
+31,AppsApk,https://www.appsapk.com/spotify-premium-apk-free-download/,Spotify Premium APK Free Download APK,,,/html/body/div/div/div[2]/div/main/article/header/h1
